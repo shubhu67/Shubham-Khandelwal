@@ -1,0 +1,17 @@
+COAL TERMINAL MAINTAINANCE ANALYSIS (MOCK UP)
+
+The image illustrates the 8 hour moving average
+of idle capacity for reclaimer (RL1) expressed as 
+a percentage of nominal cpacity
+
+Throught the month RL1 Exceeded the pointmultile times
+
+2/9 - Rolling average peak at 14%
+14/9 - Rolling average peak at 14%
+21/9 - Rolling average peak at 14%
+30/9 - Rolling average peak at 14%
+
+Inaddition the data shows up upward trend in the unused
+capacity for this machine. so it is evident that this machines requires 
+maintainance.
+

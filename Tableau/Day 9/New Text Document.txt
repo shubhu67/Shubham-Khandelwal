@@ -1,0 +1,9 @@
+In this project, we have created a new sheet name as DateTime, since we do not have 720 hours of data(
+30 days in September * 24 hours) barring reclaimer machines.
+
+There was no need of even calculating that Datetime sheet since we have whole data with us in RL1 & RL2 sheet. That was just an
+demonstration about creating a sheet, if we do not have the whole data in any of the sheets.
+
+We used a left outer join because we needed every record from the Datetime sheet and the matching reccords from the joined sheets.
+
+In our project, we need table down calculations.
